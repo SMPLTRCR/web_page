@@ -1,0 +1,59 @@
+
+ 
+* {
+  font-family: 'Playfair Display', serif;;
+}
+
+header {
+  background: #191970;
+  color: white;
+  position: sticky;
+  z-index: 2000;
+  padding: 30px;
+}
+.headerall{
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+}
+footer{
+  background: #2f2f72;
+  font-size: 80%;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  color: white;
+}
+
+body{
+  background: rgb(189, 204, 219);
+  
+}
+
+.bodyimg{
+  justify-self: center;
+}
+.intimg{
+  justify-self: center;
+}
+
+.headerleft {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.headerright {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+}
+title {
+  color: beige;
+}
+
+.span {
+font-size: 300%;
+}
