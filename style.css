@@ -8,7 +8,7 @@ header {
   background: #191970;
   color: white;
   position: sticky;
-  z-index: 2000;
+  z-index: 3000;
   padding: 30px;
   top: 0;
 }
