@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,10 +28,14 @@
               "RelativeDocumentMoniker": "style.css",
               "ToolTip": "C:\\Users\\mikol\\source\\repos\\web_page\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-28T17:40:34.516Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\mikol\\source\\repos\\web_page\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-28T17:40:28.222Z",
               "EditorCaption": ""
